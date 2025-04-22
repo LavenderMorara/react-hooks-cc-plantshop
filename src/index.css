@@ -99,6 +99,12 @@ input:focus {
 
 .cards {
   list-style: none;
+  
+}
+#cards{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .card {

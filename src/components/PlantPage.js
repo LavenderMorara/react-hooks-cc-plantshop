@@ -7,7 +7,6 @@ function PlantPage() {
   return (
     <main>
       <NewPlantForm />
-      <Search />
       <PlantList />
     </main>
   );
