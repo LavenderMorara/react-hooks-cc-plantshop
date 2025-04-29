@@ -53,6 +53,18 @@
       "image": "https://img.freepik.com/free-photo/top-view-fruit-plate-with-watermelon-greengage-plum-grape-peach-apricot-strawberry-melon-cherry_141793-2434.jpg?t=st=1742299381~exp=1742302981~hmac=4a630effc645cd53dcfea6e70ab966a059c1d44fbbec7b8a1f6b95a5ac90876e&w=996",
       "price": 12,
       "id": 9
+    },
+    {
+      "name": "hen",
+      "image": "https://img.freepik.com/free-photo/top-view-fruit-plate-with-watermelon-greengage-plum-grape-peach-apricot-strawberry-melon-cherry_141793-2434.jpg?t=st=1742299381~exp=1742302981~hmac=4a630effc645cd53dcfea6e70ab966a059c1d44fbbec7b8a1f6b95a5ac90876e&w=996",
+      "price": 13.68,
+      "id": 10
+    },
+    {
+      "name": "hen",
+      "image": "https://img.freepik.com/free-photo/top-view-fruit-plate-with-watermelon-greengage-plum-grape-peach-apricot-strawberry-melon-cherry_141793-2434.jpg?t=st=1742299381~exp=1742302981~hmac=4a630effc645cd53dcfea6e70ab966a059c1d44fbbec7b8a1f6b95a5ac90876e&w=996",
+      "price": 2,
+      "id": 11
     }
   ]
 }
